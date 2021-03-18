@@ -11,10 +11,9 @@ author: Alex Fernandez # add your name
 author-img: me.jpeg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: _alexfdz
-social-facebook: # add your Facebook handle
-social-github: alexfdz # add your Github handle
+social-github: alexfdz
 social-linkedin: alexfdz
-social-email: alexfdz@gmail.com# add your Email address
+social-email: alexfdz@gmail.com
 
 # Disqus
 discus-identifier: # add your discus identifier
