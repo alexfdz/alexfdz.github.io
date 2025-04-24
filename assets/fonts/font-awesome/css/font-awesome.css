@@ -1871,6 +1871,9 @@
 .fa-sticky-note-o:before {
   content: "\f24a";
 }
+.fa-bluesky:before {
+  content: "\e671";
+}
 .fa-cc-jcb:before {
   content: "\f24b";
 }
