@@ -2,14 +2,15 @@ title: Bawo!
 description: > # this means to ignore newlines until "baseurl:"
   Personal blog and portfolio
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/aa" # the subpath of your site, e.g. /blog
 url: "https://alexfdz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: _alexfdz
 
 # Author Settings
 author: Alex Fernandez # add your name
-author-img: me.jpeg # add your photo
+author-img: me.jpg # add your photo
 about-author: Software delivery since 2004.
+social-bsky: alexfdz.bsky.social
 social-twitter: _alexfdz
 social-github: alexfdz
 social-linkedin: alexfdz
